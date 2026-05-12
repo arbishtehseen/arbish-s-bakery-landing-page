@@ -2,9 +2,6 @@
 
 A premium web experience designed for an artisan bakery, focusing on visual storytelling and seamless user interaction.
 
-## 🚀 Live Showcase
-[Paste your Lovable Publish/Vercel Link Here]
-
 ## 🛠️ Technical Stack
 *   **Framework:** React with Vite for fast bundling.
 *   **Language:** TypeScript for type-safe frontend development.
