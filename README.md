@@ -12,9 +12,3 @@ A premium web experience designed for an artisan bakery, focusing on visual stor
 *   **Responsive Architecture:** Fully optimized for all screen sizes (Mobile to Desktop).
 *   **Performance:** Lightweight build using Vite's optimized development environment.
 *   **UI/UX:** Clean, minimalist aesthetic tailored for the food and beverage industry.
-
-## 📂 Developer Setup
-If you wish to run this project locally:
-1. `git clone [Your-Repo-Link]`
-2. `npm install`
-3. `npm run dev`
